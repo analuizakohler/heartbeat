@@ -46,7 +46,8 @@ body {
 .hero-right img {
   width: 260px;
   border-radius: 8px;
-  border: 6px solid rgba(0, 0, 0, 0.08)
+  border: 6px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 
 .hero-left h1 {
@@ -119,7 +120,7 @@ body {
   border-radius: 10px;
   padding: 8px;
   text-align: center;
-  box-shadow: 0 6px 0 rgba(0, 0, 0, 0.02);
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
   cursor: pointer;
   overflow: hidden;
 }
